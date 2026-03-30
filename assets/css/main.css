@@ -3090,15 +3090,15 @@ input, select, textarea {
 	}
 
 	table thead {
-		border-bottom-color: #eeeeee;
+		border-bottom-color: #ffffff;
 	}
 
 	table tfoot {
-		border-top-color: #eeeeee;
+		border-top-color: #ffffff;
 	}
 
 	table.alt tbody tr td {
-		border-color: #eeeeee;
+		border-color: #ffffff;
 	}
 
 /* Pagination */
@@ -3191,7 +3191,7 @@ input, select, textarea {
 		}
 
 	.pagination a, .pagination span {
-		border-color: #eeeeee;
+		border-color: #ffffff;
 	}
 
 	.pagination a {
@@ -3260,7 +3260,7 @@ input, select, textarea {
 			-webkit-transition-delay: 0.75s;
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
-			background: #1e252d;
+			background: #ffffff;
 			content: '';
 			display: block;
 			height: 100%;
@@ -3768,7 +3768,7 @@ input, select, textarea {
 
 		#main > * {
 			padding: 4rem 4rem 2rem 4rem ;
-			border-top: solid 2px #eeeeee;
+			border-top: solid 2px #ffffff;
 			margin: 0;
 		}
 
